@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+}
+
+.left-side>ul>li{
+    margin-top: 20px;
+}
+.chart_week>h6{
+    color: #838383;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.month{
+    transform: rotate(-90deg);
+    width: 150px;
+    margin-left: -50px;
+    margin-top: 90px;
+    /* background-color: #7000FF; */
+}
+/* .progress-bar{
+    background-color:#7000FF;
+}
+.prog{
+    background-color: #7000FF;
+    color: #7000FF;
+} */
+.sub-status-month h6{
+    color: #838383;
+    font-size: 12px;
+    font-weight: 400;
+}
+.chart_resource_percentage>h6{
+    color: #838383;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+.Resource-status-month h6{
+    color: #838383;
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 60px;
+    /* display: flex;
+    justify-content: space-between; */
+}
+.shopify h6{
+    font-size: 14px;
+    color: #252F40;
+    margin-left: -20px;
+}
+.rounded-circle{
+    margin-left: -10px;
+}
+.face h6{
+    color: #8392AB;;
+}
